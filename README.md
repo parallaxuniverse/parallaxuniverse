@@ -15,8 +15,8 @@
 ### about me
 
 - student in computer science  
-- focused on malware development & research  
-- passionate about cybersecurity, reverse engineering, and low-level code  
+- focused on malware development & research, gamehacking and more
+- passionate about cybersecurity, reverse engineering, and gamehacking 
 - exploring creative and technical intersections
 
 ---
@@ -27,7 +27,7 @@
 - malware research
 - reverse engineering
 - cybersecurity
-- low-level programming
+- gamehacking
 - offensive security
 
 ---
@@ -41,7 +41,7 @@
 ### discord presence
 
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/676767676767676767?idleMessage=Probably%20working%20on%20stupid%20Stuff." width="45%">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1156928708062486568?idleMessage=Probably%20working%20on%20stupid%20Stuff." width="45%">
   <br>
 </p>
 
