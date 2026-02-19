@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paral-lax&label=Profile%20views&color=5c12df&style=flat" alt="paral-lax" />
+  <img src="https://komarev.com/ghpvc/?username=parallaxuniverse&label=Profile%20views&color=5c12df&style=flat" alt="paral-lax" />
   <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/paral-lax" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/paral-lax" alt="Forks"></a>
 </p>
 
 ---
